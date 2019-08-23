@@ -1,4 +1,4 @@
-# MkDocs (https://img.shields.io/docker/pulls/jnonino/mkdocs.svg)](https://hub.docker.com/r/jnonino/mkdocs/)
+# MkDocs [![Docker hub](https://img.shields.io/docker/pulls/jnonino/mkdocs.svg)](https://hub.docker.com/r/jnonino/mkdocs/)
 
 ## Usage 
 
