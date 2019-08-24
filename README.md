@@ -1,4 +1,14 @@
-# MkDocs [![Docker hub](https://img.shields.io/docker/pulls/jnonino/mkdocs.svg)](https://hub.docker.com/r/jnonino/mkdocs/)
+# MkDocs
+
+[![](https://img.shields.io/docker/pulls/jnonino/mkdocs)](https://hub.docker.com/r/jnonino/mkdocs/)
+[![](hhttps://img.shields.io/docker/build/jnonino/mkdocs)](https://hub.docker.com/r/jnonino/mkdocs/)
+[![](https://img.shields.io/docker/automated/jnonino/mkdocs)](https://hub.docker.com/r/jnonino/mkdocs/)
+[![](https://img.shields.io/docker/stars/jnonino/mkdocs)](https://hub.docker.com/r/jnonino/mkdocs/)
+[![](https://img.shields.io/github/license/jnonino/mkdocs-docker-image)](https://github.com/jnonino/mkdocs-docker-image)
+[![](https://img.shields.io/github/issues/jnonino/mkdocs-docker-image)](https://github.com/jnonino/mkdocs-docker-image)
+[![](https://img.shields.io/github/issues-closed/jnonino/mkdocs-docker-image)](https://github.com/jnonino/mkdocs-docker-image)
+[![](https://img.shields.io/github/languages/code-size/jnonino/mkdocs-docker-image)](https://github.com/jnonino/mkdocs-docker-image)
+[![](https://img.shields.io/github/repo-size/jnonino/mkdocs-docker-image)](https://github.com/jnonino/mkdocs-docker-image)
 
 ## Usage 
 
