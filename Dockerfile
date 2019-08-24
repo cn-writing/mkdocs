@@ -4,7 +4,8 @@ LABEL maintainer="Julian Nonino <noninojulian@gmail.com>"
 # Install Git, Subversion, Mercurial
 RUN apt-get update -y && \
     apt-get install -y mkdocs && \
-    rm -rf /var/lib/apt/lists/*
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
 ENV LC_ALL C.UTF-8
 ENV LANG C.UTF-8
