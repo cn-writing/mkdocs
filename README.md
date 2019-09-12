@@ -4,11 +4,11 @@
 [![](hhttps://img.shields.io/docker/build/jnonino/mkdocs)](https://hub.docker.com/r/jnonino/mkdocs/)
 [![](https://img.shields.io/docker/automated/jnonino/mkdocs)](https://hub.docker.com/r/jnonino/mkdocs/)
 [![](https://img.shields.io/docker/stars/jnonino/mkdocs)](https://hub.docker.com/r/jnonino/mkdocs/)
-[![](https://img.shields.io/github/license/cn-docker/mkdocs)](https://github.com/cn-docker/mkdocs)
-[![](https://img.shields.io/github/issues/cn-docker/mkdocs)](https://github.com/cn-docker/mkdocs)
-[![](https://img.shields.io/github/issues-closed/cn-docker/mkdocs)](https://github.com/cn-docker/mkdocs)
-[![](https://img.shields.io/github/languages/code-size/cn-docker/mkdocs)](https://github.com/cn-docker/mkdocs)
-[![](https://img.shields.io/github/repo-size/cn-docker/mkdocs)](https://github.com/cn-docker/mkdocs)
+[![](https://img.shields.io/github/license/cn-writing/mkdocs)](https://github.com/cn-writing/mkdocs)
+[![](https://img.shields.io/github/issues/cn-writing/mkdocs)](https://github.com/cn-writing/mkdocs)
+[![](https://img.shields.io/github/issues-closed/cn-writing/mkdocs)](https://github.com/cn-writing/mkdocs)
+[![](https://img.shields.io/github/languages/code-size/cn-writing/mkdocs)](https://github.com/cn-writing/mkdocs)
+[![](https://img.shields.io/github/repo-size/cn-writing/mkdocs)](https://github.com/cn-writing/mkdocs)
 
 ## Usage 
 
