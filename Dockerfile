@@ -1,9 +1,9 @@
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 LABEL maintainer="Julian Nonino <noninojulian@gmail.com>"
 
 # Install Git, Subversion, Mercurial
 RUN apt-get update -y && \
-    apt-get install -y mkdocs=1.0.4+dfsg-1 && \
+    apt-get install -y mkdocs=1.1.2+dfsg-2ubuntu1 && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
