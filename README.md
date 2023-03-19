@@ -1,16 +1,12 @@
 # MkDocs
 
-[![](https://img.shields.io/docker/pulls/cnservices/mkdocs)](https://hub.docker.com/r/cnservices/mkdocs/)
-[![](hhttps://img.shields.io/docker/build/cnservices/mkdocs)](https://hub.docker.com/r/cnservices/mkdocs/)
-[![](https://img.shields.io/docker/automated/cnservices/mkdocs)](https://hub.docker.com/r/cnservices/mkdocs/)
-[![](https://img.shields.io/docker/stars/cnservices/mkdocs)](https://hub.docker.com/r/cnservices/mkdocs/)
 [![](https://img.shields.io/github/license/cn-writing/mkdocs)](https://github.com/cn-writing/mkdocs)
 [![](https://img.shields.io/github/issues/cn-writing/mkdocs)](https://github.com/cn-writing/mkdocs)
 [![](https://img.shields.io/github/issues-closed/cn-writing/mkdocs)](https://github.com/cn-writing/mkdocs)
 [![](https://img.shields.io/github/languages/code-size/cn-writing/mkdocs)](https://github.com/cn-writing/mkdocs)
 [![](https://img.shields.io/github/repo-size/cn-writing/mkdocs)](https://github.com/cn-writing/mkdocs)
 
-## Usage 
+## Usage
 
 1. Create a folder where your Markdown files will be. That folder needs to have the following structure:
 
@@ -24,4 +20,3 @@
 3. Run the container
 
         docker run -p 8000:8000 -v <MARKDOWN_ARTICLES_PATH>:/docs jnonino/mkdocs
-
