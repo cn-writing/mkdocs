@@ -1,8 +1,8 @@
 FROM ubuntu:26.04
 LABEL maintainer="Julian Nonino <noninojulian@gmail.com>"
 
-# renovate: datasource=ubuntu-package suite=noble depName=mkdocs
-ENV MKDOCS_VERSION="1.5.3+dfsg-1"
+# renovate: datasource=ubuntu-package suite=resolute depName=mkdocs
+ENV MKDOCS_VERSION="1.6.1+dfsg-1-2"
 
 RUN apt-get update -y && \
     apt-get install -y git mkdocs=${MKDOCS_VERSION} && \
